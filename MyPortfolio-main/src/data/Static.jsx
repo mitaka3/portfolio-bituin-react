@@ -19,7 +19,7 @@ export const works = [
   {
     title: "Portfolio Maker",
     imgSrc:
-      "https://1drv.ms/i/c/da8bdbbd5cc9590f/Eat1BEHo3uZNsGWwYGeUKuMB2Ez5js_SxvxECNQVE2g4oQ?e=7fJ4il",
+      "pic1.png",
     tech: ["HTML", "CSS", "JAVASCRIPT"],
     workUrl: "https://github.com/mitaka3/Portfolio-bituin-justin-luis",
     duration: "600",
@@ -27,7 +27,7 @@ export const works = [
   {
     title: "Hotel databased",
     imgSrc:
-      "https://cdn.dribbble.com/users/6870886/screenshots/19057557/cover_dribbble.png",
+      "hotel blue bird.png",
     tech: ["HTML", "CSS", "Javascript","PHP","Bootstrap"],
     workUrl:
       "https://github.com/mitaka3/Hotel-Management-System-main",
