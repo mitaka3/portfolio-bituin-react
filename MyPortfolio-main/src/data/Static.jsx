@@ -30,7 +30,7 @@ export const works = [
       "https://cdn.dribbble.com/users/6870886/screenshots/19057557/cover_dribbble.png",
     tech: ["HTML", "CSS", "Javascript","PHP","Bootstrap"],
     workUrl:
-      "https://www.behance.net/gallery/150189805/MAKLTI-Food-Delivery-App",
+      "https://github.com/mitaka3/Hotel-Management-System-main",
     duration: "700",
   },
 ];
